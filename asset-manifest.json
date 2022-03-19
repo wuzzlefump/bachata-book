@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bachata-book/static/css/main.fd9b2f5d.css",
+    "main.js": "/bachata-book/static/js/main.081b2bd4.js",
+    "static/js/787.1234a11e.chunk.js": "/bachata-book/static/js/787.1234a11e.chunk.js",
+    "index.html": "/bachata-book/index.html",
+    "main.fd9b2f5d.css.map": "/bachata-book/static/css/main.fd9b2f5d.css.map",
+    "main.081b2bd4.js.map": "/bachata-book/static/js/main.081b2bd4.js.map",
+    "787.1234a11e.chunk.js.map": "/bachata-book/static/js/787.1234a11e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9b2f5d.css",
+    "static/js/main.081b2bd4.js"
+  ]
+}
