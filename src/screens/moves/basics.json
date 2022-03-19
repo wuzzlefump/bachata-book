@@ -1,0 +1,454 @@
+[
+  {
+    "name": "1a) Lead Basic Step (side)",
+    "enum": "LeadBasicSide",
+    "steps": [
+      {
+        "footMovement": "LF side",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": "can be danced in close embrace, closed or open position"
+      },
+      {
+        "footMovement": "RF close to LF",
+        "count": "2",
+        "step": "2",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Lf side",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap RF ",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF side",
+        "count": "5",
+        "step": "5",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF close to RF",
+        "count": "6",
+        "step": "6",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF side",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap LF",
+        "count": "8",
+        "step": "8",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "1a) Follow Basic Step (side)",
+    "enum": "FollowBasicSide",
+    "steps": [
+      {
+        "footMovement": "RF side",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": "can be danced in close embrace, closed or open position"
+      },
+      {
+        "footMovement": "LF close to RF",
+        "count": "2",
+        "step": "2",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF side",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap LF",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF side",
+        "count": "5",
+        "step": "5",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF close to LF",
+        "count": "6",
+        "step": "6",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF side",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "8",
+        "step": "8",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "1b) Lead Basic Step (Forward/Back)",
+    "enum": "LeadBasicFwdBack",
+    "steps": [
+      {
+        "footMovement": "LF Forward",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": "can be danced in close embrace, closed or open position"
+      },
+      {
+        "footMovement": "RF Forward",
+        "count": "2",
+        "step": "2",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF Forward",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF Back",
+        "count": "5",
+        "step": "5",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF Back",
+        "count": "6",
+        "step": "6",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF Back",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF Tap",
+        "count": "8",
+        "step": "8",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "1b) Follow Basic Step (Forward/Back)",
+    "enum": "FollowBasicFwdBack",
+    "steps": [
+      {
+        "footMovement": "RF Back",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": "can be danced in close embrace, closed or open position"
+      },
+      {
+        "footMovement": "LF Back",
+        "count": "2",
+        "step": "2",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF Back",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap LF",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF Forward",
+        "count": "5",
+        "step": "5",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF Forward",
+        "count": "6",
+        "step": "6",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF Forward",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "8",
+        "step": "8",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "2a) Lead Basic Turn A",
+    "enum": "LeadBasicTurnA",
+    "steps": [
+      {
+        "footMovement": "1-4 of side basic",
+        "count": "1,2,3,4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": "raise arm on 4"
+      },
+      {
+        "footMovement": "5-8 of side basic",
+        "count": "5,6,7,8",
+        "step": "5-8",
+        "turn": "-",
+        "lead": "guide follow on an inside turn to your right"
+      }
+    ]
+  },
+  {
+    "name": "2a) Follow Basic Turn A",
+    "enum": "FollowBasicTurnA",
+    "steps": [
+      {
+        "footMovement": "1-4 of side basic",
+        "count": "1,2,3,4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": "Left hand is raised in preparation for turn on 4"
+      },
+      {
+        "footMovement": "LF forward ",
+        "count": "5",
+        "step": "5",
+        "turn": "1/4 L between 4-5, 1/2 left on 5",
+        "lead": "-"
+      },
+      {
+        "footMovement": "RF Back ",
+        "count": "6",
+        "step": "6",
+        "turn": "1/4 on 6",
+        "lead": "-"
+      },
+      {
+        "footMovement": "LF Side",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "8",
+        "step": "8",
+        "turn": "-",
+        "lead": "-"
+      }
+    ]
+  },
+  {
+    "name": "2b) Lead Basic Turn B",
+    "enum": "LeadBasicTurnB",
+    "steps": [
+      {
+        "footMovement": "1-4 of side basic",
+        "count": "1,2,3,4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": " raise your right hand and guide follow on an inside turn to your left"
+      },
+      {
+        "footMovement": "5-8 of side basic",
+        "count": "5,6,7,8",
+        "step": "5-8",
+        "turn": "-",
+        "lead": "-"
+      }
+    ]
+  },
+  {
+    "name": "2b) Follow Basic Turn B",
+    "enum": "FollowBasicTurnB",
+    "steps": [
+      {
+        "footMovement": "RF Forward",
+        "count": "1",
+        "step": "1",
+        "turn": "1/4 left turn between 0-1 1/2 turn left on 1",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF Back",
+        "count": "2",
+        "step": "2",
+        "turn": "1/4 left on 2",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF side",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap LF",
+        "count": "4",
+        "step": "4",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "5-8 of side basic",
+        "count": "5,6,7,8",
+        "step": "5-8",
+        "turn": "-",
+        "lead": "-"
+      }
+    ]
+  },
+  {
+    "name": "3) Rocking Turn",
+    "enum": "LeadRockingTurn",
+    "steps": [
+      {
+        "footMovement": "1-4 of side basic",
+        "count": "1,2,3,4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF forward toward between partners legs",
+        "count": "5",
+        "step": "5",
+        "turn": "up to 1 full turn right over 5-8 ",
+        "lead": ""
+      },
+      {
+        "footMovement": " LF diagonally back",
+        "count": "6",
+        "step": "6",
+        "turn": "^",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF Forward",
+        "count": "7",
+        "step": "7",
+        "turn": "^",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap LF",
+        "count": "8",
+        "step": "8",
+        "turn": "^",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "3) Follow Rocking Turn",
+    "enum": "FollowRockingTurn",
+    "steps": [
+      {
+        "footMovement": "1-4 of side basic",
+        "count": "1,2,3,4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF diagonally back",
+        "count": "5",
+        "step": "5",
+        "turn": "up to 1 full turn right over 5-8",
+        "lead": ""
+      },
+      {
+        "footMovement": "RF forward",
+        "count": "6",
+        "step": "6",
+        "turn": "^",
+        "lead": ""
+      },
+      {
+        "footMovement": "LF diagonally back",
+        "count": "7",
+        "step": "7",
+        "turn": "^",
+        "lead": ""
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "8",
+        "step": "8",
+        "turn": "^",
+        "lead": ""
+      }
+    ]
+  }
+]
