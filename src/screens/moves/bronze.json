@@ -1,6 +1,88 @@
 [
   {
-    "name": "",
+    "name": "1) Lead Basic W/ Elements",
+    "enum": "LeadBasicElements",
+    "steps": [
+      {
+        "footMovement": "1-8 side basid",
+        "count": "1-8",
+        "step": "1-8",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "1-8 forward backward basic",
+        "count": "(2)-8",
+        "step": "9-16",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "1-8 Basic Turn A",
+        "count": "(3)-8",
+        "step": "17-24",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "1-8 Basic Turn B",
+        "count": "(4)-8",
+        "step": "25-32",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "1-8 Bachata Ad Lib",
+        "count": "(5)-8",
+        "step": "33-40",
+        "turn": "-",
+        "lead": "-"
+      }
+    ]
+  },
+  {
+    "name": "1) Follow Basic W/ Elements ",
+    "enum": "FollowBasicElements",
+    "steps": [
+      {
+        "footMovement": "1-8 side basid",
+        "count": "1-8",
+        "step": "1-8",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "1-8 forward backward basic",
+        "count": "(2)-8",
+        "step": "9-16",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "1-8 Basic Turn A",
+        "count": "(3)-8",
+        "step": "17-24",
+        "turn": "1 full turn left",
+        "lead": ""
+      },
+      {
+        "footMovement": "1-8 Basic Turn B",
+        "count": "(4)-8",
+        "step": "25-32",
+        "turn": " 1 full turn right",
+        "lead": ""
+      },
+      {
+        "footMovement": "1-8 Bachata Ad lib",
+        "count": "(5)-8",
+        "step": "33-40",
+        "turn": "-",
+        "lead": "-"
+      }
+    ]
+  },
+  {
+    "name": "2) Lead",
     "enum": "",
     "steps": [
       {
@@ -34,7 +116,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "2) Follow",
     "enum": "",
     "steps": [
       {
@@ -68,7 +150,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "3)Lead",
     "enum": "",
     "steps": [
       {
@@ -102,7 +184,211 @@
     ]
   },
   {
-    "name": "",
+    "name": "3) Follow",
+    "enum": "",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "4) Lead",
+    "enum": "",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "4) Follow",
+    "enum": "",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "5)Lead",
+    "enum": "",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "5) Follow",
+    "enum": "",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "6) Lead",
+    "enum": "",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      },
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "6) Follow",
     "enum": "",
     "steps": [
       {
