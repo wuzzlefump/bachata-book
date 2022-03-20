@@ -83,7 +83,7 @@
   },
   {
     "name": "2) Combination 1 Lead",
-    "enum": "",
+    "enum": "LeadComboOne",
     "steps": [
       {
         "footMovement": "",
@@ -117,7 +117,7 @@
   },
   {
     "name": "2) Combination 1 Follow",
-    "enum": "",
+    "enum": "FollowComboOne",
     "steps": [
       {
         "footMovement": "",
@@ -151,7 +151,7 @@
   },
   {
     "name": "3) Combination 2 Lead",
-    "enum": "",
+    "enum": "LeadComboTwo",
     "steps": [
       {
         "footMovement": "",
@@ -185,7 +185,7 @@
   },
   {
     "name": "3) Combination 2 Follow",
-    "enum": "",
+    "enum": "FollowComboTwo",
     "steps": [
       {
         "footMovement": "",
@@ -219,7 +219,7 @@
   },
   {
     "name": "4) Combination 3 Lead",
-    "enum": "",
+    "enum": "LeadComboThree",
     "steps": [
       {
         "footMovement": "",
@@ -253,7 +253,7 @@
   },
   {
     "name": "4) Combination 3 Follow",
-    "enum": "",
+    "enum": "FollowComboThree",
     "steps": [
       {
         "footMovement": "",
@@ -287,7 +287,7 @@
   },
   {
     "name": "5) Combination 4 Lead",
-    "enum": "",
+    "enum": "LeadComboFour",
     "steps": [
       {
         "footMovement": "",
@@ -321,7 +321,7 @@
   },
   {
     "name": "5) Combination 4 Follow",
-    "enum": "",
+    "enum": "FollowComboFour",
     "steps": [
       {
         "footMovement": "",
@@ -355,7 +355,7 @@
   },
   {
     "name": "6) Combination 5 Lead",
-    "enum": "",
+    "enum": "LeadComboFive",
     "steps": [
       {
         "footMovement": "",
@@ -389,7 +389,7 @@
   },
   {
     "name": "6) Combination 5 Follow",
-    "enum": "",
+    "enum": "FollowComboFive",
     "steps": [
       {
         "footMovement": "",
