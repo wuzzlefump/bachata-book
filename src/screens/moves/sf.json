@@ -556,14 +556,14 @@
     "enum": "LeadBasicRhythm",
     "steps": [
       {
-        "footMovement": "Tap LF to side",
+        "footMovement": "Tap LF to side Pt Weight",
         "count": "1",
         "step": "1",
         "turn": "-",
         "lead": "can put partial weight on it or just point"
       },
       {
-        "footMovement": "Collect LF to Passe",
+        "footMovement": "Replace Wt RF Collect LF to Passe",
         "count": "2",
         "step": "2",
         "turn": "-",
@@ -584,14 +584,14 @@
         "lead": "steps 1-4 can be danced as a separate figure"
       },
       {
-        "footMovement": "Tap RF to side",
+        "footMovement": "Tap RF to side Pt Wt",
         "count": "5",
         "step": "5",
         "turn": "-",
         "lead": "can put partial weight on it or just point"
       },
       {
-        "footMovement": "Collect RF to Passe",
+        "footMovement": "Replace Wt LF Collect RF to Passe",
         "count": "6",
         "step": "6",
         "turn": "-",
@@ -730,14 +730,14 @@
     "enum": "FollowBasicRhythm",
     "steps": [
       {
-        "footMovement": "Tap RF to side",
+        "footMovement": "Tap RF to side part weight",
         "count": "1",
         "step": "1",
         "turn": "-",
         "lead": "-"
       },
       {
-        "footMovement": "Collect RF to Passe",
+        "footMovement": "Replace Wt LF Collect RF to Passe",
         "count": "2",
         "step": "2",
         "turn": "-",
@@ -758,14 +758,14 @@
         "lead": "steps 1-4 can be danced as a separate figure"
       },
       {
-        "footMovement": "Tap LF to side ",
+        "footMovement": "Tap LF to side Pt Weight",
         "count": "5",
         "step": "5",
         "turn": "-",
         "lead": "-"
       },
       {
-        "footMovement": "Collect LF to Passe",
+        "footMovement": "Replace wight RF Collect LF to Passe",
         "count": "6",
         "step": "6",
         "turn": "-",

@@ -292,32 +292,46 @@
     "enum": "LeadComboThree",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-8 Rocking Turn",
+        "count": "1-8",
+        "step": "1-8",
+        "turn": "Up to 1 full turn RT",
+        "lead": "End with arms on ribcage to lead Isolations"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Hold wt on RF",
+        "count": "(2)",
+        "step": "9",
+        "turn": "-",
+        "lead": "Isolate Follow's Ribs to your Left"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Hold wt on RF",
+        "count": "2",
+        "step": "10",
+        "turn": "-",
+        "lead": "Isolate Follow's Ribs to your Right"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Hold wt on RF",
+        "count": "3-4",
+        "step": "11-12",
+        "turn": "-",
+        "lead": "Isolate Follow's Ribs to your Left"
+      },
+      {
+        "footMovement": "Hold wt on RF",
+        "count": "5-8",
+        "step": "13-16",
+        "turn": "-",
+        "lead": "Isolate Follow's ribs to the right in a counter clockwise circle (or ragdoll)"
+      },
+      {
+        "footMovement": "17-24 basic rhythms",
+        "count": "(3)-8",
+        "step": "17-24",
+        "turn": "Up to 1 Full Turn RT over 17-24",
+        "lead": "-"
       }
     ]
   },
@@ -326,32 +340,46 @@
     "enum": "FollowComboThree",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-8 Rocking Turn",
+        "count": "1-8",
+        "step": "1-8",
+        "turn": "Up to 1 full turn RT",
+        "lead": "Leads hands end on ribcage to lead Isolations"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Hold Wt split weight",
+        "count": "(2)",
+        "step": "9",
+        "turn": "-",
+        "lead": "weight may be more toward LF, Ribs Move to your Right"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Hold wt on split weight",
+        "count": "2",
+        "step": "10",
+        "turn": "-",
+        "lead": "weight may be more toward LF, Ribs Move to your Left"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Hold wt on RF",
+        "count": "3-4",
+        "step": "11-12",
+        "turn": "-",
+        "lead": "weight may be more toward LF, Ribs Move to your Right"
+      },
+      {
+        "footMovement": "Hold wt on RF",
+        "count": "5-8",
+        "step": "13-16",
+        "turn": "-",
+        "lead": "Ribs moved  to your left in a counter clockwise circle (or ragdoll)"
+      },
+      {
+        "footMovement": "17-24 basic rhythms",
+        "count": "(3)-8",
+        "step": "17-24",
+        "turn": "Up to 1 Full Turn RT over 17-24",
+        "lead": "-"
       }
     ]
   },
@@ -428,11 +456,11 @@
     "enum": "LeadComboFive",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-8 Basic Rhythms",
+        "count": "1-8",
+        "step": "1-8",
+        "turn": "-",
+        "lead": "-"
       },
       {
         "footMovement": "",
