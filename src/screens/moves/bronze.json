@@ -82,7 +82,7 @@
     ]
   },
   {
-    "name": "2) Lead",
+    "name": "2) Combination 1 Lead",
     "enum": "",
     "steps": [
       {
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "name": "2) Follow",
+    "name": "2) Combination 1 Follow",
     "enum": "",
     "steps": [
       {
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "name": "3)Lead",
+    "name": "3) Combination 2 Lead",
     "enum": "",
     "steps": [
       {
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "name": "3) Follow",
+    "name": "3) Combination 2 Follow",
     "enum": "",
     "steps": [
       {
@@ -218,7 +218,7 @@
     ]
   },
   {
-    "name": "4) Lead",
+    "name": "4) Combination 3 Lead",
     "enum": "",
     "steps": [
       {
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "name": "4) Follow",
+    "name": "4) Combination 3 Follow",
     "enum": "",
     "steps": [
       {
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "name": "5)Lead",
+    "name": "5) Combination 4 Lead",
     "enum": "",
     "steps": [
       {
@@ -320,7 +320,7 @@
     ]
   },
   {
-    "name": "5) Follow",
+    "name": "5) Combination 4 Follow",
     "enum": "",
     "steps": [
       {
@@ -354,7 +354,7 @@
     ]
   },
   {
-    "name": "6) Lead",
+    "name": "6) Combination 5 Lead",
     "enum": "",
     "steps": [
       {
@@ -388,7 +388,7 @@
     ]
   },
   {
-    "name": "6) Follow",
+    "name": "6) Combination 5 Follow",
     "enum": "",
     "steps": [
       {
