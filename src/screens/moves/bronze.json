@@ -4,7 +4,7 @@
     "enum": "LeadBasicElements",
     "steps": [
       {
-        "footMovement": "1-8 side basid",
+        "footMovement": "1-8 side basic",
         "count": "1-8",
         "step": "1-8",
         "turn": "",
@@ -45,7 +45,7 @@
     "enum": "FollowBasicElements",
     "steps": [
       {
-        "footMovement": "1-8 side basid",
+        "footMovement": "1-8 side basic",
         "count": "1-8",
         "step": "1-8",
         "turn": "-",
