@@ -370,84 +370,126 @@
     ]
   },
   {
-    "name": "3) Rocking Turn",
-    "enum": "LeadRockingTurn",
+    "name": "3) Lead Bachata Ad Lib ",
+    "enum": "LeadBachataRock",
     "steps": [
       {
-        "footMovement": "1-4 of side basic",
-        "count": "1,2,3,4",
-        "step": "1-4",
+        "footMovement": "LF Forward",
+        "count": "1",
+        "step": "1",
         "turn": "-",
-        "lead": ""
+        "lead": "Steps 1-4 can be danced separately from steps 5-8"
       },
       {
-        "footMovement": "RF forward toward between partners legs",
-        "count": "5",
-        "step": "5",
-        "turn": "up to 1 full turn right over 5-8 ",
-        "lead": ""
+        "footMovement": "Replace Wt RF",
+        "count": "2",
+        "step": "2",
+        "turn": "1/4 L between 2 and 3",
+        "lead": "-"
       },
       {
-        "footMovement": " LF diagonally back",
-        "count": "6",
-        "step": "6",
-        "turn": "^",
-        "lead": ""
+        "footMovement": "LF side",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "RF Tap",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": "-"
       },
       {
         "footMovement": "RF Forward",
-        "count": "7",
-        "step": "7",
-        "turn": "^",
-        "lead": ""
+        "count": "5",
+        "step": "5",
+        "turn": "-",
+        "lead": "Steps 5-8 can be danced separately from 1-5"
       },
       {
-        "footMovement": "Tap LF",
+        "footMovement": "Replace Wt LF",
+        "count": "6",
+        "step": "6",
+        "turn": "1/4 R between 6 and 7",
+        "lead": "-"
+      },
+      {
+        "footMovement": "RF Side",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "LF Tap",
         "count": "8",
         "step": "8",
-        "turn": "^",
-        "lead": ""
+        "turn": "-",
+        "lead": "-"
       }
     ]
   },
   {
-    "name": "3) Follow Rocking Turn",
-    "enum": "FollowRockingTurn",
+    "name": "3) Follow Bachata Ad Lib",
+    "enum": "Follow Bachata Rock",
     "steps": [
       {
-        "footMovement": "1-4 of side basic",
-        "count": "1,2,3,4",
-        "step": "1-4",
+        "footMovement": "RF Back",
+        "count": "1",
+        "step": "1",
         "turn": "-",
-        "lead": ""
+        "lead": "Steps 1-4 can be danced separately from steps 5-8"
       },
       {
-        "footMovement": "LF diagonally back",
+        "footMovement": "Replace Wt LF",
+        "count": "2",
+        "step": "2",
+        "turn": "1/8 L between 2 & 3",
+        "lead": "-"
+      },
+      {
+        "footMovement": "RF Side ",
+        "count": "3",
+        "step": "3",
+        "turn": "1/8 L between 3 & 4",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Tap LF",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "LF Back",
         "count": "5",
         "step": "5",
-        "turn": "up to 1 full turn right over 5-8",
-        "lead": ""
+        "turn": "-",
+        "lead": "Steps 5-8 can be danced separately from 1-5"
       },
       {
-        "footMovement": "RF forward",
+        "footMovement": "Replace Wt RF",
         "count": "6",
         "step": "6",
-        "turn": "^",
-        "lead": ""
+        "turn": "1/4 R between 6 and 7",
+        "lead": "-"
       },
       {
-        "footMovement": "LF diagonally back",
+        "footMovement": "LF Side",
         "count": "7",
         "step": "7",
-        "turn": "^",
-        "lead": ""
+        "turn": "1/4 R between 7 and 8",
+        "lead": "-"
       },
       {
         "footMovement": "Tap RF",
         "count": "8",
         "step": "8",
-        "turn": "^",
-        "lead": ""
+        "turn": "-",
+        "lead": "-"
       }
     ]
   }
