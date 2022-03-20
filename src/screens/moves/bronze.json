@@ -86,32 +86,67 @@
     "enum": "LeadComboOne",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
+        "footMovement": "Steps 9-12 Basic Rhythms",
+        "count": "1-2, &, 3, 4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Steps 5-8 Cuddle",
+        "count": "5,6,7,8",
+        "step": "5-8",
+        "turn": "1/8 L",
+        "lead": "-"
+      },
+      {
+        "footMovement": "steps 9-12 Cuddle",
+        "count": "(2),2,3,4,",
+        "step": "9-12",
+        "turn": "-",
+        "lead": "using the left hand loop the Follows right hand over their head over steps 9-12"
+      },
+      {
+        "footMovement": "RF in Place",
+        "count": "5",
+        "step": "13",
         "turn": "",
+        "lead": "Lead follow backward into a tunnel whilst staying in place"
+      },
+      {
+        "footMovement": "LF in Place",
+        "count": "6",
+        "step": "14",
+        "turn": " ",
         "lead": ""
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
+        "footMovement": "RF in Place",
+        "count": "7",
+        "step": "15",
+        "turn": "1/2 between 15 and 16",
         "lead": ""
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Tap LF",
+        "count": "8",
+        "step": "16",
+        "turn": "-",
+        "lead": "-"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Steps 1-4 Basic Turn B",
+        "count": "17-20",
+        "step": "17-20",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Step 5-8 Side Basic ",
+        "count": "21-24",
+        "step": "21-24",
+        "turn": "-",
+        "lead": "as you head to the side take your right hand and loop the follows hand over the RT side of your head (your hadn will gover your left) to end up in closed position"
       }
     ]
   },
@@ -120,32 +155,67 @@
     "enum": "FollowComboOne",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Steps 9-12 Basic Rhythms",
+        "count": "1-2, &, 3, 4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": "-"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Steps 5-8 Cuddle",
+        "count": "5,6,7,8",
+        "step": "5-8",
+        "turn": "7/8 L",
+        "lead": "-"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "steps 9-12 Cuddle",
+        "count": "(2),2,3,4,",
+        "step": "9-12",
+        "turn": "-",
+        "lead": "Lead loops your right hand over your head over 9-12"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "LF Back",
+        "count": "5",
+        "step": "13",
+        "turn": "-",
+        "lead": "Duck as moving backward  into a tunnel whilst the lead stays in place"
+      },
+      {
+        "footMovement": "RF Back",
+        "count": "6",
+        "step": "14",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "LF Back",
+        "count": "7",
+        "step": "15",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "8",
+        "step": "16",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Steps 1-4 Basic Turn B",
+        "count": "17-20",
+        "step": "17-20",
+        "turn": "1 full turn right",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Step 5-8 Side Basic ",
+        "count": "21-24",
+        "step": "21-24",
+        "turn": "-",
+        "lead": "lead loops your left arm over your head. it slides down their right side to end in closed position"
       }
     ]
   },
