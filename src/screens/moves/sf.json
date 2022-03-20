@@ -392,32 +392,18 @@
     "enum": "LeadHammerlock",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-4 side Basic",
+        "count": "1-4",
+        "step": "1-4",
+        "turn": "-",
+        "lead": "lead an outside (natural) turn with your left hand, while keeping your right hand hold low"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "5-8 side basic",
+        "count": "5-8",
+        "step": "5-8",
+        "turn": "-",
+        "lead": "Lead an inside (reverse) turn with your left hand while keeping your right hand hold"
       }
     ]
   },
@@ -426,32 +412,60 @@
     "enum": "FollowHammerlock",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
+        "footMovement": "RF Forward",
+        "count": "1",
+        "step": "1",
+        "turn": "1/4 Right between 0 and 1 then 1/2 left on 1",
+        "lead": "Outside Turn while keeping Left hand hold Low and being led by Right Hand"
+      },
+      {
+        "footMovement": "LF Back",
+        "count": "2",
+        "step": "2",
+        "turn": "1/4 Right on 2",
         "lead": ""
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "RF side",
+        "count": "3",
+        "step": "3",
+        "turn": "-",
+        "lead": "-"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "Tap LF",
+        "count": "4",
+        "step": "4",
+        "turn": "-",
+        "lead": "end with LH behind back and right hand held"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "LF Forward",
+        "count": "5",
+        "step": "5",
+        "turn": "1/4 Left between 4 and 5 1/2 turn left on 5",
+        "lead": "maintain hold with LH behind back and right leading into an inside(reverse turn) unraveling arms"
+      },
+      {
+        "footMovement": "RF Back",
+        "count": "6",
+        "step": "6",
+        "turn": "1/4 R on 6",
+        "lead": "-"
+      },
+      {
+        "footMovement": "LF Side",
+        "count": "7",
+        "step": "7",
+        "turn": "-",
+        "lead": "-"
+      },
+      {
+        "footMovement": "Tap RF",
+        "count": "8",
+        "step": "8",
+        "turn": "-",
+        "lead": "-"
       }
     ]
   },
@@ -538,8 +552,8 @@
     ]
   },
   {
-    "name": "4) Lead Basic Rhythms",
-    "enum": "LeadRockingTurn",
+    "name": "5) Lead Basic Rhythms",
+    "enum": "LeadBasicRhythm",
     "steps": [
       {
         "footMovement": "Tap LF to side",
@@ -713,7 +727,7 @@
   },
   {
     "name": "5) Follow Basic Rhythms",
-    "enum": "FollowRockingTurn",
+    "enum": "FollowBasicRhythm",
     "steps": [
       {
         "footMovement": "Tap RF to side",
