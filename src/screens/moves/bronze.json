@@ -388,72 +388,45 @@
     "enum": "LeadComboFour",
     "steps": [
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-8 Basic Rhythms",
+        "count": "1-8",
+        "step": "1-8",
+        "turn": "-",
+        "lead": "-"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-4 side Basic",
+        "count": "(2)-4",
+        "step": "9-12",
+        "turn": "-",
+        "lead": "Toss Follows RTto your left and take a RT to RT Hand hold"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "5-8 Basic Turn A",
+        "count": "5-8",
+        "step": "13-16",
+        "turn": "-",
+        "lead": " Lead Basic Turn A W/ RT Hand hold Take a Left to left hand hold right hands crossed over the lefthands"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-4 side basic",
+        "count": "(3)-4",
+        "step": "17-20",
+        "turn": "-",
+        "lead": "Throw RT hands to your Left and Left hands to your right allowing them to go in a circle and cross the opposite way. Left hand on top right hand on bottom. retake Left to left and right to right hand hold. "
+      },
+      {
+        "footMovement": "5-8 side basic",
+        "count": "5-8",
+        "step": "21-24",
+        "turn": "-",
+        "lead": "loop the double hand hold over either your head or your follow's head."
       }
     ]
   },
   {
     "name": "5) Combination 4 Follow",
     "enum": "FollowComboFour",
-    "steps": [
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      }
-    ]
-  },
-  {
-    "name": "6) Combination 5 Lead",
-    "enum": "LeadComboFive",
     "steps": [
       {
         "footMovement": "1-8 Basic Rhythms",
@@ -463,60 +436,43 @@
         "lead": "-"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-4 side Basic",
+        "count": "(2)-4",
+        "step": "9-12",
+        "turn": "-",
+        "lead": "Rt hand is tossed to  your RT and takes  RT to RT Hand hold"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "5-8 Basic Turn A",
+        "count": "5-8",
+        "step": "13-16",
+        "turn": "1 full turn Left",
+        "lead": "Basic Turn A W/ happens w/ RT Hand hold Take a Left to left hand hold is taken right hands crossed over the lefthands"
       },
       {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
+        "footMovement": "1-4 side basic",
+        "count": "(3)-4",
+        "step": "17-20",
+        "turn": "-",
+        "lead": "Throw RT hands to your Right and Left hands to your Left allowing them to go in a circle and cross the opposite way. Left hands on top right hands on bottom. retake Left to left and right to right hand hold. "
+      },
+      {
+        "footMovement": "5-8 side basic",
+        "count": "5-8",
+        "step": "21-24",
+        "turn": "-",
+        "lead": "loop the double hand hold over either your head or your lead's head."
       }
     ]
   },
   {
+    "name": "6) Combination 5 Lead",
+    "enum": "LeadComboFive",
+    "steps": []
+  },
+  {
     "name": "6) Combination 5 Follow",
     "enum": "FollowComboFive",
-    "steps": [
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      },
-      {
-        "footMovement": "",
-        "count": "",
-        "step": "",
-        "turn": "",
-        "lead": ""
-      }
-    ]
+    "steps": []
   }
 ]
